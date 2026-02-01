@@ -22,7 +22,7 @@ h1 {
 }
 
 button {
-  background: #ff4d6d;
+  background: ##7393B3;
   color: white;
   border: none;
   padding: 12px 18px;
@@ -41,3 +41,4 @@ button:hover {
   font-size: 16px;
   color: #444;
 }
+
