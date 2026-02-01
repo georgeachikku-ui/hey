@@ -1,5 +1,6 @@
 function showLove() {
   document.getElementById("hidden").innerText =
-    "I love you more than words, more than distance, more than yesterday ❤️";
+    "I love you, more than anshika and ofc that mishra ❤️";
 }
+
 
